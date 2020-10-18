@@ -1,2 +1,2 @@
 # Python Cookbook
- Python example codes of advance concepts
+Example codes of advance concepts
